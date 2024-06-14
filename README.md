@@ -3,7 +3,7 @@
 - 👀 I’m interested in leveraging data to derive insights and drive business decisions.
 - 🌱 I’m currently honing my skills in data analytics and database design, particularly focusing on SQL Server and R-Studio.
 - 💞️ I’m open to collaborating on projects that involve data analysis, software development, or anything that aligns with my interests and skills.
-- 📫 You can reach me via [email](christiancastillomail@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/christian-c-b10222264). 
+- 📫 You can reach me via [email](christiancastillomail@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/ccastillotorres). 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and experimenting with different programming languages in my free time.
 <!---
