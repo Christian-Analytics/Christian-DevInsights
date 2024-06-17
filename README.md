@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m @Christian-DevInsights. Welcome to my Github profile!
+- 👋 Hey there, I’m @Christian-Analytics. Welcome to my Github profile!
 - 📚I have a background in Econometrics, Quantitative Economics, and Business Analytics.
 - 👀 I’m interested in leveraging data to derive insights and drive business decisions.
 - 🌱 I’m currently honing my skills in data analytics and database design, particularly focusing on SQL Server and R-Studio.
